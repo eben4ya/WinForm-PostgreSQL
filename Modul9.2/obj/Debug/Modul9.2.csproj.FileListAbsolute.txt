@@ -1,0 +1,10 @@
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\bin\Debug\Modul9.2.exe.config
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\bin\Debug\Modul9.2.exe
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\bin\Debug\Modul9.2.pdb
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9.2.csproj.AssemblyReference.cache
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9._2.Form1.resources
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9._2.Properties.Resources.resources
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9.2.csproj.GenerateResource.cache
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9.2.csproj.CoreCompileInputs.cache
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9.2.exe
+C:\Users\eben4ya\Documents\Modul8\Junpro8\Modul9.2\obj\Debug\Modul9.2.pdb
